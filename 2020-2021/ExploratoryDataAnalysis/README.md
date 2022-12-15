@@ -25,7 +25,7 @@ Authors: Krzysztof Łukasz, Aleksandra Wasiak
 
 Authors: Aleksandra Kanka, Thien Hoang Ly, Patryk Świątek
 
-img src="png/Ly_Swiatek_Kanka.png" align="center" width="600"/>
+<img src="png/Ly_Swiatek_Kanka.png" align="center" width="600"/>
 
 Authors: Jakub Nahorny, Krystian Okręglicki, Dominik Stępień
 
