@@ -26,9 +26,16 @@ Instructors: [@kozaka93](https://github.com/kozaka93) [@woznicak](https://github
 
 
 ## Academic year 2020/2021
-### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2020-2021/DataVisualizationTechniques)
+### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2020-2021/DataVisualizationTechniques/P1)
+
 
 Instructors: [@agosiewska](https://github.com/agosiewska) [@hbaniecki](https://github.com/hbaniecki)
+
+### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2020-2021/DataVisualizationTechniques/P2)
+
+
+Instructors: [@agosiewska](https://github.com/agosiewska) [@hbaniecki](https://github.com/hbaniecki)
+
 
 ### [Introduction to exploratory data analysis](https://github.com/MI2-Education/posters/tree/main/2020-2021/ExploratoryDataAnalysis)
 
