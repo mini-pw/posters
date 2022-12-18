@@ -42,3 +42,10 @@ Instructors: [@agosiewska](https://github.com/agosiewska) [@hbaniecki](https://g
 How to tell an interesting story? During classes we spend time learning the types of plots we can use to make sense of our data. It is also important to be able to tell the story hidden in the data to others. To do this, students made posters about movies, series, books, and games.
 
 Instructors: [@kozaka93](https://github.com/kozaka93) 
+
+
+## Academic year 2018/2019
+### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2018-2019/DataVisualizationTechniques/P-DRD)
+
+Instructors: [@pbiecek](https://github.com/pbiecek) 
+
