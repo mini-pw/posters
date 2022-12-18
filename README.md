@@ -47,7 +47,7 @@ Instructors: [@kozaka93](https://github.com/kozaka93)
 ## Academic year 2018/2019
 ### [Data Visualization Techniques - DRD](https://github.com/MI2-Education/posters/tree/main/2018-2019/DataVisualizationTechniques/P-DRD)
 
-### [Data Visualization Techniques - Posters](https://github.com/MI2-Education/posters/tree/main/2018-2019/DataVisualizationTechniques/P-DRD)
+### [Data Visualization Techniques - Posters](https://github.com/MI2-Education/posters/tree/main/2018-2019/DataVisualizationTechniques/P1)
 
 Instructors: [@pbiecek](https://github.com/pbiecek) 
 
