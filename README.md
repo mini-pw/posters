@@ -49,3 +49,9 @@ Instructors: [@kozaka93](https://github.com/kozaka93)
 
 Instructors: [@pbiecek](https://github.com/pbiecek) 
 
+
+## Academic year 2017/2018
+### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2017-2018/DataVisualizationTechniques/)
+
+Instructors: [@pbiecek](https://github.com/pbiecek) 
+
