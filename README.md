@@ -33,6 +33,7 @@ Instructors: [@agosiewska](https://github.com/agosiewska) [@hbaniecki](https://g
 
 ### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2020-2021/DataVisualizationTechniques/P2)
 
+In the second project, we asked students to prepare posters concerning COVID-19 statistics, while also exploring various topics like restrictions, tourism, air pollution, economy, etc.
 
 Instructors: [@agosiewska](https://github.com/agosiewska) [@hbaniecki](https://github.com/hbaniecki)
 
