@@ -44,13 +44,17 @@ How to tell an interesting story? During classes we spend time learning the type
 
 Instructors: [@kozaka93](https://github.com/kozaka93) 
 
+## Academic year 2019/2020
+### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2019-2020/DataVisualizationTechniques)
+
+Instructors: [@pbiecek](https://github.com/pbiecek) [@michbur](https://github.com/michbur) 
 
 ## Academic year 2018/2019
 ### [Data Visualization Techniques - DRD](https://github.com/MI2-Education/posters/tree/main/2018-2019/DataVisualizationTechniques/P-DRD)
 
 ### [Data Visualization Techniques - Posters](https://github.com/MI2-Education/posters/tree/main/2018-2019/DataVisualizationTechniques/P1)
 
-Instructors: [@pbiecek](https://github.com/pbiecek) 
+Instructors: [@pbiecek](https://github.com/pbiecek) [@michbur](https://github.com/michbur) 
 
 
 ## Academic year 2017/2018
