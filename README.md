@@ -11,6 +11,11 @@ Have you ever wondered what distinguishes the best Formula 1 drivers? Why do som
 
 Instructors: [@kozaka93](https://github.com/kozaka93) [@krzyzinskim](https://github.com/krzyzinskim) [@HubertR21](https://github.com/HubertR21) [@mikolajsp](https://github.com/mikolajsp)
 
+### [Introduction to exploratory data analysis](https://github.com/MI2-Education/posters/tree/main/2022-2023/ExploratoryDataAnalysis)
+
+
+Instructors: [@kozaka93](https://github.com/kozaka93) [@HubertR21](https://github.com/HubertR21) [@sobieskibj](https://github.com/sobieskibj)
+
 ## Academic year 2021/2022
 ### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2021-2022/DataVisualizationTechniques)
 
