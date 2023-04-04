@@ -20,7 +20,7 @@ Instructors: [@kozaka93](https://github.com/kozaka93) [@hbaniecki](https://githu
 
 ### [Introduction to exploratory data analysis](https://github.com/MI2-Education/posters/tree/main/2021-2022/ExploratoryDataAnalysis)
 
-
+Project focused on the exploration and visualisation of survey data. The data from questionnaires were related to two scientific projects conducted by Centrum Nauki Kopernik in Warsaw. 
 
 Instructors: [@kozaka93](https://github.com/kozaka93) [@woznicak](https://github.com/woznicak)
 
@@ -28,6 +28,7 @@ Instructors: [@kozaka93](https://github.com/kozaka93) [@woznicak](https://github
 ## Academic year 2020/2021
 ### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2020-2021/DataVisualizationTechniques/P1)
 
+The project's goal was to prepare a poster containing good and bad data visualization practices or a guide on the type of visualization to select in a specific situation.
 
 Instructors: [@agosiewska](https://github.com/agosiewska) [@hbaniecki](https://github.com/hbaniecki)
 
