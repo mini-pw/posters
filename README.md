@@ -13,7 +13,7 @@ Instructors: [@kozaka93](https://github.com/kozaka93) [@krzyzinskim](https://git
 
 ### [Introduction to exploratory data analysis](https://github.com/MI2-Education/posters/tree/main/2022-2023/ExploratoryDataAnalysis)
 
-Have you wondered how music affects our mood? Or whether concerts affect the popularity of songs and the number of plays? Or what makes a song win a Grammy or win Eurovision? You can find the answers to these questions and many more on the posters prepared during the **Introduction to exploratory data analysis** course.
+Have you wondered how music affects our mood? Or whether concerts affect the popularity of songs and the number of plays? Or what makes a song win a Grammy or win Eurovision? You can find the answers to these questions and many more on the posters prepared during the *Introduction to exploratory data analysis* course.
 
 Instructors: [@kozaka93](https://github.com/kozaka93) [@HubertR21](https://github.com/HubertR21) [@sobieskibj](https://github.com/sobieskibj)
 
