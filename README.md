@@ -17,6 +17,7 @@ Instructors: [@kozaka93](https://github.com/kozaka93) [@krzyzinskim](https://git
 Have you wondered how music affects our mood? Or whether concerts affect the popularity of songs and the number of plays? Or what makes a song win a Grammy or win Eurovision? You can find the answers to these questions and many more on the posters prepared during the *Introduction to exploratory data analysis* course.
 
 Instructors: [@kozaka93](https://github.com/kozaka93) [@HubertR21](https://github.com/HubertR21) [@sobieskibj](https://github.com/sobieskibj)
+
 -----------------------------------------------------------------------------------------------------------------------------
 ## Academic year 2021/2022
 ### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2021-2022/DataVisualizationTechniques)
@@ -51,11 +52,13 @@ Instructors: [@agosiewska](https://github.com/agosiewska) [@hbaniecki](https://g
 How to tell an interesting story? During classes we spend time learning the types of plots we can use to make sense of our data. It is also important to be able to tell the story hidden in the data to others. To do this, students made posters about movies, series, books, and games.
 
 Instructors: [@kozaka93](https://github.com/kozaka93) 
+
 -----------------------------------------------------------------------------------------------------------------------------
 ## Academic year 2019/2020
 ### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2019-2020/DataVisualizationTechniques)
 
 Instructors: [@pbiecek](https://github.com/pbiecek) [@michbur](https://github.com/michbur) 
+
 -----------------------------------------------------------------------------------------------------------------------------
 ## Academic year 2018/2019
 ### [Data Visualization Techniques - DRD](https://github.com/MI2-Education/posters/tree/main/2018-2019/DataVisualizationTechniques/P-DRD)
