@@ -4,6 +4,7 @@
 
 Posters collected by: [@kozaka93](https://github.com/kozaka93) 
 
+-----------------------------------------------------------------------------------------------------------------------------
 ## Academic year 2022/2023
 ### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2022-2023/DataVisualizationTechniques)
 
