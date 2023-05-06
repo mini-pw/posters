@@ -57,19 +57,27 @@ Instructors: [@kozaka93](https://github.com/kozaka93)
 ## Academic year 2019/2020
 ### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2019-2020/DataVisualizationTechniques)
 
+The project consisted of graphically preparing the most exciting results of data mining. The students had a choice of two datasets, the first was on PISA results and the second on FIFA'19 statistics.
+
 Instructors: [@pbiecek](https://github.com/pbiecek) [@michbur](https://github.com/michbur) 
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Academic year 2018/2019
 ### [Data Visualization Techniques - DRD](https://github.com/MI2-Education/posters/tree/main/2018-2019/DataVisualizationTechniques/P-DRD)
 
+The DRDhub (Data - Rhetoric - Design) project was interdisciplinary. It joined students of Polish studies from the University of Warsaw, media arts from the Academy of Fine Arts in Warsaw, and mathematics and computer science from Warsaw University of Technology.
+
 ### [Data Visualization Techniques - Posters](https://github.com/MI2-Education/posters/tree/main/2018-2019/DataVisualizationTechniques/P1)
+
+The project was focused on a graphic illustration about a selected movie, TV series, or audiobook.
 
 Instructors: [@pbiecek](https://github.com/pbiecek) [@michbur](https://github.com/michbur) 
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Academic year 2017/2018
 ### [Data Visualization Techniques](https://github.com/MI2-Education/posters/tree/main/2017-2018/DataVisualizationTechniques/)
+
+The project aimed to present data on demographics, economics, health care, security, politics, education, or the history of Poland or Europe.
 
 Instructors: [@pbiecek](https://github.com/pbiecek) 
 
